@@ -51,12 +51,12 @@ included `TensorFlow v2.x` support, tested on both TensorFlow `v2.1.0` and `v2.2
 To detect the blood cells, simply run the `detect.py` file in the terminal or use an IDE. 
 .
 If you have any trouble running the code and facing any errors please feel free to create
-an **[`issue`](https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells/issues)**
+an **[`issue`](https://github.com/Luthrout/HemoCounter/issues)**
 
 ## How to Train on Your Dataset  :bullettrain_side:
 
 A seven-step guideline of how to train on your own dataset is provided in
-this **[`wiki`](https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells/wiki/How-to-Train-on-Your-Dataset)**
+this **[`wiki`](https://github.com/Luthrout/HemoCounter)**
 .
 
 ## Paper
